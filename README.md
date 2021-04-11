@@ -20,7 +20,7 @@ Data Science, Data Analytics, Machine Learning, Big Data, Data Visualization
 
 -👩🏻‍💻 I'm currently working on Data Analytics.
 
--✍🏼 I’m currently learning Tensorflow, Keras, Scikit Learn.
+-✍🏼 I’m currently learning Tensorflow, Keras.
 
 -📝 I write articles on https://www.bigdataci.com/
 
