@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-Data Science, Data Analytics, Machine Learning, Big Data, Data Visualization
+Data Analytics, Machine Learning, Big Data, Data Visualization, Data Science
 
 -👩🏻‍💻 I'm currently working on Data Analytics.
 
--✍🏼 I’m currently learning Tensorflow, Keras.
+-✍🏼 I’m currently learning SQL and Power BI.
 
 -📝 I write articles on https://www.bigdataci.com/
 
--💬 Ask me about Data Science and Data Analytics
+-💬 Ask me about Data Analytics and Data Science
 
 -📫 How to reach me: simay.2808@gmail.com
